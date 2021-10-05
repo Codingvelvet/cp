@@ -1,0 +1,2 @@
+# cp
+all competitive programming
